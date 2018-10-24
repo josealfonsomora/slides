@@ -38,7 +38,7 @@ Note:
 Note:
 
 Google IO / Mayo 2018
----
++++
 ```
    // APK splitting
     splits {
@@ -57,4 +57,9 @@ Google IO / Mayo 2018
         }
     }
 ```
-
++++
+![asappbundle](template/img/android_studio_app_bundle.png)
++++
+## Requisitos
++++
+![signing](template/img/app_signing.png)
