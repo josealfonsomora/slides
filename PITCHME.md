@@ -6,13 +6,13 @@
 +++?image=template/img/bg/green.jpg&position=right&size=10% 100%
 ![me](template/img/me.jpg)
 <br>
-José Alfonso Mora
+####José Alfonso Mora
 <br>
-Android Engineer
+####Android Engineer
 <br>
-Twitter: https://twitter.com/josealfonsomora
+#####Twitter: https://twitter.com/josealfonsomora
 <br>
-LinkedIn: https://www.linkedin.com/in/josealfonsomora/
+#####LinkedIn: https://www.linkedin.com/in/josealfonsomora/
 
 +++?image=template/img/bg/green.jpg&position=right&size=50% 100%
 @snap[west split-screen-byline]
