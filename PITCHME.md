@@ -31,8 +31,8 @@ Note:
 - Plynk - Octubre 2016
 - Numbrs - Enero 2018
 ---
-# Android App Bundle
-![appbundle](template/img/app_bundle.jpeg)
+### Android App Bundle
+![appbundle](template/img/app_bundle.jpg)
 
 Note:
 
