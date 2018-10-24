@@ -7,7 +7,6 @@
 ![me](template/img/me.jpg)
 <br>
 #### José Alfonso Mora
-<br>
 #### Android Engineer
 <br>
 ##### Twitter: https://twitter.com/josealfonsomora
