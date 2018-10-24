@@ -5,11 +5,13 @@
 
 +++?image=template/img/bg/green.jpg&position=right&size=10% 100%
 José Alfonso Mora
+<br>
 Android Engineer
-
+<br>
 ![me](template/img/me.jpg)
-
+<br>
 Twitter: https://twitter.com/josealfonsomora
+<br>
 LinkedIn: https://www.linkedin.com/in/josealfonsomora/
 
 +++?image=template/img/bg/green.jpg&position=right&size=50% 100%
