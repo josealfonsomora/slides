@@ -11,18 +11,27 @@
 #### LinkedIn:
 
 +++
-
-@snap[east]
-![numbrs](template/img/numbrs_app.png)
-Numbrs
-@snapend
-
-@snap[west]
-![ding](template/img/ding_app.jpeg)
+@snap[east split-screen-byline text-white]
 Ding - Enero 2015
 @snapend
-  
-@snap[midpoint]
+
+@snap[west split-screen-img]
+![ding](template/img/ding_app.jpeg)
+@snapend
++++
+@snap[east split-screen-byline text-white]
+Plynk - Octubre 2016
+@snapend
+
+@snap[west split-screen-img]
 ![plynk](template/img/plynk_app.jpeg)
-Plynk
-@snapend 
+@snapend
++++
+@snap[east split-screen-byline text-white]
+Numbrs - Enero 2018
+@snapend
+
+@snap[west split-screen-img]
+![numbrs](template/img/numbrs_app.png)
+@snapend
+---
