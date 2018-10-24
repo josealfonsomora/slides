@@ -3,20 +3,15 @@
 
 ## Thanks for comming!
 
-+++?image=template/img/bg/green.jpg&position=right&size=50% 100%
-@snap[west split-screen-byline]
++++?image=template/img/bg/green.jpg&position=right&size=10% 100%
 José Alfonso Mora
 Android Engineer
-@snapend
 
-@snap[midpoint split-screen-img]
 ![me](template/img/me.jpg)
-@snapend
 
-@snap[east split-screen-text text-white]
 Twitter: https://twitter.com/josealfonsomora
 LinkedIn: https://www.linkedin.com/in/josealfonsomora/
-@snapend
+
 +++?image=template/img/bg/green.jpg&position=right&size=50% 100%
 @snap[west split-screen-byline]
 ![ding](template/img/ding_app.jpeg)
