@@ -3,19 +3,23 @@
 
 ## Thanks for comming!
 
-+++
-
++++?image=template/img/bg/green.jpg&position=left&size=50% 100%
+@snap[east split-screen-byline text-white]
+![me](template/img/me.jpg)
 ### José Alfonso Mora
+@snapend
+@snap[west split-screen-byline]
 ### Android Engineer
 #### Twitter:
 #### LinkedIn:
+@snapend
 
 +++?image=template/img/bg/green.jpg&position=right&size=50% 100%
 @snap[east split-screen-byline text-white]
 Ding - Enero 2015
 @snapend
 
-@snap[west split-screen-img]I
+@snap[west split-screen-img]
 ![ding](template/img/ding_app.jpeg)
 @snapend
 +++?image=template/img/bg/green.jpg&position=right&size=50% 100%
