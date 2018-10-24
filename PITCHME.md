@@ -38,5 +38,23 @@ Note:
 Note:
 
 Google IO / Mayo 2018
----?gist=bapspatil/ae37089f3602aab759dbd2b990b9d669
+---
+```
+   // APK splitting
+    splits {
+        abi {
+            // Enable APK splitting wrt architecture
+            enable true
+            
+            // Reset the architectures for which you need to build the APKs for
+            reset()
+            
+            // Include the architectures for which Gradle is building APKs
+            include 'x86', 'x86_64', 'armeabi-v7a', 'arm64-v8a'
+            
+            // Set this to false if you don't want an APK that has native code for all architectures
+            universalApk false
+        }
+    }
+```
 
