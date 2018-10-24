@@ -4,11 +4,11 @@
 ## Thanks for comming!
 
 +++?image=template/img/bg/green.jpg&position=right&size=10% 100%
+![me](template/img/me.jpg)
+<br>
 José Alfonso Mora
 <br>
 Android Engineer
-<br>
-![me](template/img/me.jpg)
 <br>
 Twitter: https://twitter.com/josealfonsomora
 <br>
