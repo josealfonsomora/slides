@@ -3,17 +3,20 @@
 
 ## Thanks for comming!
 
-+++?image=template/img/bg/green.jpg&position=left&size=50% 100%
-@snap[east split-screen-byline text-white]
-![me](template/img/me.jpg)
-### José Alfonso Mora
-@snapend
++++?image=template/img/bg/green.jpg&position=right&size=50% 100%
 @snap[west split-screen-byline]
-### Android Engineer
-#### Twitter:
-#### LinkedIn:
+José Alfonso Mora
+Android Engineer
 @snapend
 
+@snap[midpoint split-screen-img]
+![me](template/img/me.jpg)
+@snapend
+
+@snap[east split-screen-text text-white]
+Twitter: https://twitter.com/josealfonsomora
+LinkedIn: https://www.linkedin.com/in/josealfonsomora/
+@snapend
 +++?image=template/img/bg/green.jpg&position=right&size=50% 100%
 @snap[east split-screen-byline text-white]
 Ding - Enero 2015
