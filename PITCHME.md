@@ -66,6 +66,10 @@ Necesitamos adelgazar nuestras APKS
 ## Requisitos
 +++
 ### Androi Studio 3.2
+Note:
+
+- Gradle 3
+- AAPT2 (Android Asset Packaging Tool) is a build tool that Android Studio and Android Gradle Plugin use to compile and package your app's resources. AAPT2 parses, indexes, and compiles the resources into a binary format that is optimized for the Android platform.
 +++
 ### App Signing
 ![signing](template/img/app_signing.png)
@@ -80,7 +84,7 @@ Note:
 
 - Incluido en Android studio 3.2
 - Open source
-
+- Comand line tool
 +++
 ### .aab
 ![aab](template/img/aab.png)
@@ -129,8 +133,6 @@ bundle {
 ### Bundle Explorer en Google Play Console
 ![live](https://media.giphy.com/media/A34x7CEKUkCyc/giphy.gif)
 +++
-### Bundle Explorer en Google Play Console
-+++
 ![peso cristal comparacion](template/img/peso_cristal_comparacion.png)
 ---
 ### Otro ejemplo
@@ -140,3 +142,11 @@ bundle {
 +++
 ![sensei app size](template/img/sensei_trade_size.png)
 ---
+# App Bundle + Dynamic Delivery
+![app bundle dynamic](template/img/app_bundle_dynamic_delivery.png)
+
+Note:
+
+- Beta - Solo internal test track
+- Solicitar access
++++
