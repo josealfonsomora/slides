@@ -86,7 +86,7 @@ Necesitamos adelgazar nuestras APKS
 ---
 ### Configuraciones
 +++
-```
+```kotlin
 bundle {
     density{
         enableSplit = false
@@ -118,5 +118,5 @@ bundle {
 ![sensei app](template/img/sensei_trade.png)
 ###### https://play.google.com/store/apps/details?id=com.txstockdata.senseitrade1
 +++
-![peso cristal size](template/img/sensei_trade_size.png)
-+++
+![sensei app size](template/img/sensei_trade_size.png)
+---
