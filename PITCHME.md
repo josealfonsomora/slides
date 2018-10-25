@@ -142,11 +142,25 @@ bundle {
 +++
 ![sensei app size](template/img/sensei_trade_size.png)
 ---
-# App Bundle + Dynamic Delivery
+### App Bundle + Dynamic feature modules
 ![app bundle dynamic](template/img/app_bundle_dynamic_delivery.png)
-
+###### https://developer.android.com/studio/projects/dynamic-delivery#dynamic_feature_modules
 Note:
 
 - Beta - Solo internal test track
 - Solicitar access
 +++
+### New dynamic feature module
+![dynamic feature module](template/img/dynamic_delivery.png)
++++
+##### Android Studio -> New Module
+![new module](template/img/new_module.png)
++++
+###### Dynamic Feature Module
+![new module](template/img/new_dynamic_feature_module.png)
++++
+###### Configure on demand
+![new module](template/img/dynamic_configure_on_demand.png)
++++
+###### Configure on demand
+![new module](template/img/dynamic_configure_on_demand.png)
