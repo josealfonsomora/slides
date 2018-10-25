@@ -84,12 +84,39 @@ Necesitamos adelgazar nuestras APKS
 ### Reducir tamaño app
 ![apk size](template/img/saved_size.png)
 ---
+### Configuraciones
++++
+```
+bundle {
+    density{
+        enableSplit = false
+    }
+    
+    abi {
+        enableSplit = false
+    }
+    
+    language {
+        enableSplit = false
+    }
+}
+```
+---
 ### Ejemplo real
 +++
 ![peso cristal app](template/img/peso_cristal.png)
+###### https://play.google.com/store/apps/details?id=com.josealfonsomora.pesoscristal
 +++
 ![peso cristal size](template/img/peso_cristal_size.png)
 +++
 ![peso cristal savings](template/img/peso_cristal_savings.png)
 +++
 ![peso cristal comparacion](template/img/peso_cristal_comparacion.png)
+---
+### Otro ejemplo
++++
+![sensei app](template/img/sensei_trade.png)
+###### https://play.google.com/store/apps/details?id=com.txstockdata.senseitrade1
++++
+![peso cristal size](template/img/sensei_trade_size.png)
++++
