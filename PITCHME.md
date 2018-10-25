@@ -86,7 +86,7 @@ Necesitamos adelgazar nuestras APKS
 ---
 ### Configuraciones
 +++
-```kotlin
+```Groovy
 bundle {
     density{
         enableSplit = false
