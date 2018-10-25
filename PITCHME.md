@@ -73,11 +73,19 @@ Necesitamos adelgazar nuestras APKS
 ### Cómo funciona?
 +++
 ### Bundletool
-###### https://developer.android.com/studio/command-line/bundletool
+####### https://developer.android.com/studio/command-line/bundletool
+####### https://github.com/google/bundletool
+
+Note:
+
+- Incluido en Android studio 3.2
+- Open source
+
 +++
 ### .aab
 ![aab](template/img/aab.png)
 ##### https://developer.android.com/guide/app-bundle/+++
+
 Note:
 
 - abb no se puede instalar
@@ -117,6 +125,8 @@ bundle {
 ![peso cristal size](template/img/peso_cristal_size.png)
 +++
 ![peso cristal savings](template/img/peso_cristal_savings.png)
++++?https://giphy.com/gifs/A34x7CEKUkCyc/html5
+### Bundle Explorer en Google Play Console
 +++
 ### Bundle Explorer en Google Play Console
 +++
