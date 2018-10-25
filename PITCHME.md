@@ -166,13 +166,9 @@ Note:
 ###### Configure on demand
 ![new module](template/img/dynamic_configure_on_demand.png)
 +++
-@snap[west split-screen-byline]
 ![module created](template/img/module_created.png)
-@snapend
-
-@snap[east split-screen-text text-white]
++++
 ![manifest created](template/img/manifest_created.png)
-@snapend
 +++
 ![dependency error](template/img/dependency_error.png)
 +++
