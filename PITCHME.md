@@ -144,7 +144,8 @@ bundle {
 ---
 ### App Bundle + Dynamic feature modules
 ![app bundle dynamic](template/img/app_bundle_dynamic_delivery.png)
-###### https://developer.android.com/studio/projects/dynamic-delivery#dynamic_feature_modules
+https://developer.android.com/studio/projects/dynamic-delivery#dynamic_feature_modules
+
 Note:
 
 - Beta - Solo internal test track
@@ -157,10 +158,31 @@ Note:
 ![new module](template/img/new_module.png)
 +++
 ###### Dynamic Feature Module
-![new module](template/img/new_dynamic_feature_module.png)
+![new dynamic feature](template/img/new_dynamic_feature_module.png)
++++
+###### Configure on demand
+![on demand](template/img/dynamic_configure_on_demand.png)
 +++
 ###### Configure on demand
 ![new module](template/img/dynamic_configure_on_demand.png)
 +++
-###### Configure on demand
-![new module](template/img/dynamic_configure_on_demand.png)
+@snap[west split-screen-byline]
+![module created](template/img/module_created.png)
+@snapend
+
+@snap[east split-screen-text text-white]
+![manifest created](template/img/manifest_created.png)
+@snapend
++++
+![dependency error](template/img/dependency_error.png)
++++
+![api solution](template/img/api_solution.png)
+
+
+
+
+
+
+
+
+
