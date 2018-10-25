@@ -5,12 +5,12 @@
 @snapend
 
 @snap[east split-screen-img]
-![Vigo Tech](template/img/vigo_tech_logo.jpeg)
+![Vigo Tech](template/img/vigo_tech_logo.jpg)
 ### Vigo Tech
 @snapend
 ---
 ### Kaleido Coworking
-![Vigo Tech](template/img/Kaleido-Coworking.jpeg)
+![Vigo Tech](template/img/Kaleido-Coworking.jpg)
 ### Gracias
 ##### https://www.kaleidocoworking.com/
 ---
