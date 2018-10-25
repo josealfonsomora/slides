@@ -86,7 +86,10 @@ Necesitamos adelgazar nuestras APKS
 ---
 ### Ejemplo real
 +++
-### Peso cristal
 ![peso cristal app](template/img/peso_cristal.png)
 +++
-![peso cristal app](template/img/peso_cristal_size.png)
+![peso cristal size](template/img/peso_cristal_size.png)
++++
+![peso cristal savings](template/img/peso_cristal_savings.png)
++++
+![peso cristal comparacion](template/img/peso_cristal_comparacion.png)
