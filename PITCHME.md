@@ -71,12 +71,15 @@ Necesitamos adelgazar nuestras APKS
 ![signing](template/img/app_signing.png)
 ---
 ### Cómo funciona?
-![whot it works](template/img/app_bundle_how_it_works.png)
-+++
-### .aab
-![aab](template/img/aab.png)
-##### https://developer.android.com/guide/app-bundle/
 +++
 #### Google play firma nuestras apps
 ![signing steps](template/img/app_signing_steps.png)
 +++
+### .aab
+![aab](template/img/aab.png)
+##### https://developer.android.com/guide/app-bundle/+++
++++
+![whot it works](template/img/app_bundle_how_it_works.png)
++++
+### Redude tamaño
+![apk size](template/img/saved_size.png)
