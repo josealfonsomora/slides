@@ -72,14 +72,21 @@ Necesitamos adelgazar nuestras APKS
 ---
 ### Cómo funciona?
 +++
-#### Google play firma nuestras apps
-![signing steps](template/img/app_signing_steps.png)
-+++
 ### .aab
 ![aab](template/img/aab.png)
 ##### https://developer.android.com/guide/app-bundle/+++
 +++
+#### Google play firma nuestras apps
+![signing steps](template/img/app_signing_steps.png)
++++
 ![whot it works](template/img/app_bundle_how_it_works.png)
 +++
-### Redude tamaño
+### Reducir tamaño app
 ![apk size](template/img/saved_size.png)
+---
+### Ejemplo real
++++
+### Peso cristal
+![peso cristal app](template/img/peso_cristal.png)
++++
+![peso cristal app](template/img/peso_cristal_size.png)
