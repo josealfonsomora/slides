@@ -173,6 +173,11 @@ Note:
 ![dependency error](template/img/dependency_error.png)
 +++
 ![api solution](template/img/api_solution.png)
+---
+### Como lo usamos?
+https://github.com/googlesamples/android-dynamic-features
++++
+
 
 
 
