@@ -168,6 +168,9 @@
 .text-purple { color: #643B85 !important; }
 .text-yellow { color: #F5DB2E !important; }
 .text-white  { color: #FFFFFF !important; }
+.twitter-blue { color : #00aced; }
+.linkedin-blue { color : #0077B5; }
+
 
 .template-note {
   letter-spacing: 0.1em;
